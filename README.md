@@ -1,5 +1,9 @@
 ## Sales Insights Data Analysis Project
 
+![alt text](image.png)
+
+Demo Link: https://app.powerbi.com/links/oi1E_myi2m?ctid=457a287e-c649-4355-817e-30f728e578d8&pbi_source=linkShare
+
 ### Instructions to setup mysql on your local computer
 
 1. Install mysql on your local computer
